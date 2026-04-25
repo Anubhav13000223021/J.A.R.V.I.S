@@ -1,0 +1,38 @@
+# Core Setup
+python-decouple
+requests
+colorlog
+
+# Audio & Voice pipelines (Wake word, STT, TTS)
+openwakeword
+openai-whisper
+edge-tts
+sounddevice
+numpy
+soundfile
+webrtcvad
+
+# LLM and Internet capabilities
+groq
+duckduckgo-search
+
+# Machine Learning / NLP capabilities
+torch
+torchaudio
+transformers
+spacy
+
+# Desktop Control & UI
+PyQt6
+PyAutoGUI
+pygetwindow
+pillow
+
+# Total Laptop Control
+pyperclip
+screen-brightness-control
+pycaw
+comtypes
+psutil
+send2trash
+win10toast
